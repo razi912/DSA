@@ -7,12 +7,15 @@ Each program lives in its own `.java` file under `src/`, organized by topic pack
 ## 📁 Structure
 
 ```
-src/
-├── Arrays/         
-├── Conditional/    
-├── Input/          
-├── Math/           
-└── Patterns/       
+DSA/
+├──src/
+│    ├── Arrays/         
+│    ├── Conditional/    
+│    ├── Input/          
+│    ├── Math/           
+│    └── Patterns/
+│
+└──README.md     
 ```
 
 ## 🎯 Purpose
