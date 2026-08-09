@@ -1,2 +1,4 @@
 # DSA
-Programs while learning DSA in java.
+This repository contains the programs I will make while learning DSA in java.
+
+#Structure
