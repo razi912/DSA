@@ -15,13 +15,13 @@ public class _1DArrayClg {
 
         }
         int max = marks[0];
-        for(int i =1;i<n;i++){
+        for(int i =0;i<n;i++){
             if(marks[i]>max){
                 max = marks[i];
             }
         }
         int min = marks[0];
-        for(int i =1;i<n;i++){
+        for(int i =0;i<n;i++){
             if(marks[i]<min){
                 min = marks[i];
             }
