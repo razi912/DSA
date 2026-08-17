@@ -14,7 +14,7 @@ public class StringPalindrome {
         for(int i=0;i<arr.length/2;i++){
             if (arr[i] != arr[arr.length-1-i]){
                 isPalindrome = false;
-                break;
+                break ;
             }
         }
         if(isPalindrome) System.out.println("Yes,'"+str+"' is a palindrome (Array)");
