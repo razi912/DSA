@@ -26,6 +26,6 @@ public class LinearSearch {
 
         }
         if(found) System.out.println("Value is at index "+index);
-        else System.out.println("Value not found");
+        else System.out.println(index);
     }
 }
