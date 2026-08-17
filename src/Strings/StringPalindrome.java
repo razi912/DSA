@@ -20,7 +20,7 @@ public class StringPalindrome {
         if(isPalindrome) System.out.println("Yes,'"+str+"' is a palindrome (Array)");
         else System.out.println("No,'"+str+"' is not a palindrome (Array)");
 
-        //By charAt function
+        // By charAt function
         for(int i =0;i<str.length()/2;i++){
             if(str.charAt(i)!=str.charAt(str.length()-1-i)){
                 isPalindrome = false;
