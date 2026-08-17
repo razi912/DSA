@@ -1,4 +1,4 @@
-package O6_strings;
+package CollegeDrill;
 import java.util.Arrays;
 
 //'A' = 65

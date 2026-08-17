@@ -1,4 +1,4 @@
-package Arrays;
+package CollegeDrill;
 
 import java.util.Scanner;
 
