@@ -1,4 +1,4 @@
-package CollegeDrill;
+package OO_College;
 import java.util.Arrays;
 
 //'A' = 65
