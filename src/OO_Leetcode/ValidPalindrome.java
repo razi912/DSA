@@ -1,8 +1,7 @@
-package LeetcodeDrill;
+package OO_Leetcode;
 
 //125
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class ValidPalindrome {
     public static void main(String[] args) {
