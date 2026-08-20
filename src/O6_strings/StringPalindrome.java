@@ -27,7 +27,22 @@ public class StringPalindrome {
         }
         if(isPalindrome) System.out.println("yes (by charAt method)");
         else System.out.println("No (by charAt method)");
+
+        //By two pointers
+        int left =0;
+        int right = str.length()-1;
+        while (left<right){
+            if(str.charAt(left)!=str.charAt(right)){
+                isPalindrome=false;
+                break;
+            }
+            left++;
+            right--;
+        }
+        System.out.println("By two pointers:"+isPalindrome);
     }
+
+
 
 
 
