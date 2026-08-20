@@ -9,11 +9,11 @@ Each program lives in its own `.java` file under `src/`, organized by topic pack
 ```
 DSA/
 ├──src/
-│    ├── Arrays/         
-│    ├── Conditional/    
-│    ├── Input/          
-│    ├── Math/           
-│    └── Patterns/
+│    ├── O5_arrays/         
+│    ├── O2_conditional/    
+│    ├── O1_input/          
+│    ├── O3_math/           
+│    └── O4_patterns/
 │
 └──README.md     
 ```
