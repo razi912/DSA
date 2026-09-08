@@ -12,6 +12,7 @@ public class MaxAvgSubarray {
         }
         int k=sc.nextInt();
 
+
         //there's some problem in this
 
         //brute force
