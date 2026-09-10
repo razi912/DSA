@@ -14,7 +14,7 @@ public class MaxSumSubarray {
         }
         int k = sc.nextInt();
 
-        //brute force
+        //brute  force
         int max = Integer.MIN_VALUE;
         for (int i = 0; i < n - (k - 1); i++) {
             int sum = 0;
