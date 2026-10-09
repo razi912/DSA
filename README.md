@@ -11,16 +11,16 @@ DSA/
 |
 |----.idea/
 |----src/
-|     |----O1_input/
-|     |----O2_conditional/
-|     |----O3_math/
-|     |----O4_patterns/
-|     |----O5_arrays/
-|     |----O6_strings/
-|     |----O7_two_pointers/
-|     |----OO_College/
-|     |----OO_ExtraPractice/
-|     |----OO_Leetcode/
+|     |----p01_input/
+|     |----p02_conditional/
+|     |----p03_math/
+|     |----p04_patterns/
+|     |----p05_arrays/
+|     |----p06_strings/
+|     |----p07_two_pointers/
+|     |----x_College/
+|     |----x_ExtraPractice/
+|     |----x_Leetcode/
 |
 |----.gitignore
 |----DSA.iml
