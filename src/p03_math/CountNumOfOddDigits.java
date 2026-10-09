@@ -14,6 +14,7 @@ public class CountNumOfOddDigits {
             n=n/10;
         }
 
+
         System.out.println(count);
     }
 }
