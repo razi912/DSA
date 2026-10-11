@@ -1,4 +1,4 @@
-package p09_hashing;
+package p10_hashing;
 
 import java.util.Scanner;
 
