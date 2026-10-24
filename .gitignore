@@ -1,26 +1,21 @@
 
-
-# Compiled Java files
-*.class
-
 # IntelliJ IDEA
 .idea/
 *.iml
 out/
 
-# VS Code workspace settings
+# Java compiled files
+*.class
+
+# VS Code
 .vscode/
 
-# Build output
-target/
-build/
-
-# Operating system files
+# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Temporary and backup files
+# Temporary files
 *.tmp
 *.temp
 *.bak
